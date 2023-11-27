@@ -30,4 +30,6 @@ Remember to replace specific addresses or values with your actual data to obtain
 ## Note
 This SQL program assumes a specific database schema and might require adjustments to function correctly with your database.
 
+## Resources
+https://cs50.harvard.edu/sql/2023/psets/1/packages/
 
