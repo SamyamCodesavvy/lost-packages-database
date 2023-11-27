@@ -11,7 +11,7 @@ The purpose of this program is to analyze a database containing information abou
 4. What were the contents of the Devious Delivery?
 5. What are the contents of the Forgotten Gift?
 6. Who has the Forgotten Gift?
-kk
+   
 ## Each Scenario
 ### The Lost Letter
 The Lost Letter scenario aims to identify the address where a particular package, referred to as the Lost Letter, ended up.
