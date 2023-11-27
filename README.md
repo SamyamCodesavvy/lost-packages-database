@@ -1,4 +1,4 @@
-# The Packages SQL Program
+# The Missing Packages SQL Program
 
 This SQL program is designed to answer six specific questions regarding three distinct scenarios: The Lost Letter, The Devious Delivery, and The Forgotten Gift. Each section in the program corresponds to one of these scenarios and includes SQL queries to retrieve relevant data from the database.
 
